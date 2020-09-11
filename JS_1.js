@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <body>
-  <p>Before the script...</p>
+  <p>Update_Before the script...</p>
   <script>
     alert( 'Hello, world!' );
   </script>
